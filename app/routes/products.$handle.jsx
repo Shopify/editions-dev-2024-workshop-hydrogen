@@ -100,7 +100,7 @@ export default function Product() {
             />
           </div>
 
-          {/* Reviews */}
+          {/* Reviews summary */}
           <ReviewsSummary data={reviews} />
 
           {/* Options */}
